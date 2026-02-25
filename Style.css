@@ -1,0 +1,12 @@
+.Icon {
+  width: 6vh;
+  height: 6vh;
+  border: solid white 0.5vh;
+  margin: 1vh;
+}
+
+.Seperation_line {
+  border: none;
+  background-color: darkorchid;
+  height: 0.8vh;
+}
